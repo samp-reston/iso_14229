@@ -1,0 +1,20 @@
+[package]
+name = "iso_14229"
+version = "0.0.1"
+authors = ["Samuel Preston <samp.reston@outlook.com>"]
+edition = "2021"
+description = "Implementation of ISO-14229"
+readme = "README.md"
+repository = "https://github.com/samp-reston/iso_14229"
+license = "MIT"
+keywords = ["iso", "ucs", "automotive", "14229", "networking"]
+categories = [
+  "data-structures",
+  "development-tools",
+  "embedded",
+  "network-programming",
+  "parsing",
+]
+
+
+[dependencies]
